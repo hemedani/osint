@@ -1,6 +1,8 @@
 ## Video 00 - introduction of the course
 
-
+```javascript
+console.log("nothing ...")
+```
 Hi my name is Syd Amir and in this course we wanna to learn programming secrets //
 
 The fundamental, intermediate, advanced and such as this topics is enough //
